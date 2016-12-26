@@ -72,8 +72,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -189,7 +189,7 @@ sidebar:
 
 
 # Blogrolls
-links_title: Links
+links_title: 友情链接
 links_layout: block
 #links_layout: inline
 links:
@@ -262,7 +262,8 @@ mathjax:
 
 
 # Swiftype Search API Key
-#swiftype_key:
+#swiftype_key: ymArf92PkpsWyhA8t4CZ
+swiftype_key: sAEXRe1VBz2-Yb5Tcs1o
 
 # Baidu Analytics ID
 #baidu_analytics:
