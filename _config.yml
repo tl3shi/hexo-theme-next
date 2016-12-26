@@ -7,6 +7,7 @@ favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "中南大学|清华大学软件学院唐磊的博客, 主攻软件工程, 数据挖掘, 这里记录了我的学习, 生活和工作"
+description: "码农 @ 宜信大数据创新中心, 毕业于CSU && THU,  曾工作于<a href='http://www.tencent.com/zh-cn/index.shtml' target='_blank'>腾讯</a> && <a href='http://www.umeng.com/' target='_blank'>友盟</a>.  &nbsp; <a href='/about/'> MORE </a>"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
