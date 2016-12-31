@@ -32,14 +32,6 @@ canonical: true
 seo: false
 
 
-index_generator:
-  per_page: 8
-
-archive_generator:
-  per_page: 20
-  yearly: true
-  monthly: true
-
 
 # ---------------------------------------------------------------
 # Menu Settings
