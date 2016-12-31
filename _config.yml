@@ -31,6 +31,16 @@ canonical: true
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
 
+
+index_generator:
+  per_page: 8
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+
+
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -133,8 +143,10 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  Wechat: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI3OTUzMzcwNw==&from=1#wechat_webview_type=1&wechat_redirect 
+  GitHub: https://github.com/tl3shi
+  Weibo: http://weibo.com/tangleithu
 
 
 # Social Links Icons
@@ -149,6 +161,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Wechat: weixin
 
 
 # Sidebar Avatar
@@ -194,6 +207,8 @@ sidebar:
 #links_layout: inline
 #links:
 #   我的Wordpres: http://wordpress.tanglei.name
+#   我的jekyll: http://jekyll.tanglei.name
+#   我的hexo: http://hexo.tanglei.name
 
 
 # ---------------------------------------------------------------
@@ -266,13 +281,13 @@ mathjax:
 swiftype_key: sAEXRe1VBz2-Yb5Tcs1o
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: f0117177475f54027bfcaceb8d668cee
 
 # Duoshuo ShortName
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: hexo-tanglei
 
 # Hypercomments
 #hypercomments_id:
