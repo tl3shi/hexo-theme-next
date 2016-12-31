@@ -74,8 +74,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -195,7 +195,7 @@ sidebar:
 
 # Blogrolls
 #links_title: 友情链接
-#links_layout: block
+##links_layout: block
 #links_layout: inline
 #links:
 #   我的Wordpres: http://wordpress.tanglei.name
