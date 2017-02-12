@@ -6,6 +6,11 @@
     <i class="fa fa-{{ theme.authoricon }}"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
+  {% if theme.beian %} 
+  <span class="author" itemprop="copyrightHolder">
+      - {{ theme.beian }} 
+  </span>
+ {% endif %}
 </div>
 
 {% if theme.copyright %}
