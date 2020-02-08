@@ -137,7 +137,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  Wechat: https://www.tanglei.name/resources/tl3shi-wechat.png
+  Wechat: /resources/tl3shi-wechat.png
   GitHub: https://github.com/tl3shi
   Weibo: http://weibo.com/tangleithu
 
@@ -233,7 +233,7 @@ wechat_subscriber:
   enabled: true
   #qcode: /path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
   qcode: /resources/wechat-tangleithu-tl3shi.png
-  description: 欢迎扫码关注微信公众号(左), 加我微信(右)深入交流
+  description: 欢迎用微信扫码联系我
 
 
 
