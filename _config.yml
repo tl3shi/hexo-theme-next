@@ -232,8 +232,8 @@ post_meta:
 wechat_subscriber:
   enabled: true
   #qcode: /path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
-  qcode: /resources/wechat-tangleithu-tl3shi.png
-  description: 欢迎用微信扫码联系我
+  qcode: /resources/wechat-tangleithu-codershitou.jpg
+  description: 欢迎扫码加入互联网大厂内推群 & 技术交流群，一起学习、共同进步
 
 
 
